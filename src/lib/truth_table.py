@@ -2,7 +2,7 @@ toLatex = lambda py: \
 	py.replace("not", "\\neg") \
 	.replace("and", "\\wedge") \
 	.replace("or", "\\vee") \
-	.replace("==", "\\Leftrightarrow") \
+	.replace("==", "\\Leftrightarrow ") \
 	.replace("im", "") \
 	.replace(", ", "\\rightarrow ")
 
