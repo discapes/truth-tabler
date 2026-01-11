@@ -1,5 +1,5 @@
 <script lang="ts">
-	import './app.less';
+	import './app.css';
 </script>
 
 <div class="min-h-screen min-w-full inline-flex flex-col text-emerald-50">
